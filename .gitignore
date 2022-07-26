@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+main.dSYM/Contents/Resources/DWARF/main
+main.dSYM/Contents/Info.plist
+main
