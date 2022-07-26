@@ -3,7 +3,8 @@
 class Calculator
 {
 public:
-    double i, j;
+    double i;
+    double j;
     int add()
     {
         return i+j;
@@ -32,4 +33,5 @@ int main() {
     std::cout << myCalc.subtract() << std::endl;
     std::cout << myCalc.multiply() << std::endl;
     std::cout << myCalc.divide() << std::endl;
+    std::cout << "all done." << std::endl;
 }
